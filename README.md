@@ -94,4 +94,6 @@ MIT. Do what you like with it, including commercially. See [LICENSE](LICENSE).
 
 ## Credits
 
-Built by <YOUR NAME>. If it saves you time on a groom, a screenshot of what you made with it is the best thanks.
+Built by Giacomo Liberio with Claude Support. 
+
+If it saves you time on a groom, a screenshot of what you made with it is the best thanks.
