@@ -84,9 +84,11 @@ Closed (periodic) curves are supported but skip the length solver.
 - Performance degrades in the low thousands of curves; the hover probe subsamples, but the press pass projects every CV.
 - The first hotkey assignment creates a hotkey set named `GL_Tools`, because Maya's default set is read-only.
 
-## Contributing
-
-Issues and pull requests welcome. Useful directions if you want to pitch in: additional brush modes (smooth, noise, scale, clump), a Viewport 2.0 draw override for the brush ring, and spatial hashing for large grooms.
+## Planned Features for next version
+- Additional brush modes (smooth, noise, scale, clump)
+- A better and more perfomant viewport2.0 Override for the RingBrush
+- Curve Visibility Helper
+- Open to ideas
 
 ## License
 
