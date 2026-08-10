@@ -1,4 +1,4 @@
-# GL - Curve Wrangler
+# GL - Curve Wrangler (WIP PAGE)
 
 **A grab and comb brush for NURBS curves in Maya. No plugin to compile, no hair system to adopt.**
 
